@@ -21,7 +21,7 @@ askclaudia/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GhostyyWasTaken/AskClaudia-Search-Engine.git
+   git clone https://github.com/Joshua-Bambe/AskClaudia-Search-Engine.git
 2. Open index.html in your perferred browser
 
 ## Inspiration
